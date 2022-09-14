@@ -1,0 +1,3 @@
+[submodule "myrepos2"]
+	path = myrepos2
+	url = https://github.com/zulfi1098/myrepos2.git
